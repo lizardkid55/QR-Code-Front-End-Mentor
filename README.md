@@ -10,8 +10,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
   - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
 
 Overall this was an easy project. I had to jog my memory on what I had learned in html and css, but I think that this was a good project to get my feet wet with front end mentor. 
@@ -22,11 +20,9 @@ I started with writing the html, by taking the pre-existing structure and assign
 
 ### Built with
 
-- Semantic HTML5 markup
-- CSS custom properties
+- HTML 5
+- CSS
 - Flexbox
-
-**Note: These are just examples. Delete this note and replace the list above with your own choices**
 
 ### What I learned
 
